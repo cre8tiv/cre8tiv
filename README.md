@@ -32,8 +32,8 @@ When I'm not coding you'll usually find me:
 
 ### Connect with me
 
-- 🌐 Website: https://jblakemartin.com
-- 📝 Blog: https://jblakemartin.com/blog
+- 🌐 Website: https://www.jblakemartin.com
+- 📝 Blog: https://www.jblakemartin.com/blog
 - 💼 LinkedIn: https://www.linkedin.com/in/jblakemartin/
 
 ---
